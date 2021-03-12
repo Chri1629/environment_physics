@@ -1,0 +1,23 @@
+Number= 600070
+Name= LA GOMERA/AEROPUERTO
+Country= SPAIN
+Lat=   28.0
+Long=   17.2
+Height= 219
+Start year= 2011
+End year= 2014
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  17.5  17.1  16.7  18.2  19.7  22.4  22.2  23.2  23.3  23.6  20.1  19.0   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  17.4  15.9  17.8  17.6  20.8  22.4  23.8  25.6  24.0  22.6  20.4  18.6   506   506   506   506   506   506   506   506   506   506   506   506 
+2013  17.7  17.8  18.0  20.0  19.7  20.8  22.5  24.8  23.3  22.6  20.7  18.4   506   506   506   506   506   506   506   506   506   506   506   506 
+2014  17.1  16.7  17.1  18.4  19.9  20.8  21.9  23.2  23.8  23.3  20.7  18.5   506   506   506   506   506   506   506   506   506   506   506   506 

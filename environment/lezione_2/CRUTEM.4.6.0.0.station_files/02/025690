@@ -1,0 +1,23 @@
+Number= 025690
+Name= STAVSJO
+Country= SWEDEN
+Lat=   58.7
+Long=  -16.4
+Height= 60
+Start year= 1993
+End year= 1996
+First Good year= 1993
+Source ID= 73
+Source file= Jones
+Jones data to= 1996
+Normals source start year= 1993
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 1993
+Standard deviations source end year= 1990
+Obs:
+1993 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0  15.0  12.8   7.2   5.1   0.2  -0.9   -99   -99   -99   -99   -99   -99   506   506   506   506   506   506 
+1994  -1.9  -8.2   0.1   5.8   8.9  13.4  19.8  15.5  11.1   4.8   2.2   0.9   506   506   506   506   506   506   506   506   506   506   506   506 
+1995  -3.5   0.6   1.4   3.4   8.6  14.7 -99.0  16.5  10.5   8.2  -0.8  -6.0   506   506   506   506   506   506   -99   506   506   506   506   506 
+1996  -4.7 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   506   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99 

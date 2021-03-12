@@ -1,0 +1,21 @@
+Number= 937370
+Name= PUKAKI AERODROME AWS
+Country= NEW ZEALAND
+Lat=  -44.2
+Long= -170.1
+Height= 473
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  16.1  15.4  13.2   9.2   8.1   3.7   2.1   3.9   6.7   9.8  12.4  15.6   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  15.9  15.4  11.9   9.5   5.0   2.1   1.1   5.1   7.9   9.3  11.4  15.8   506   506   506   506   506   506   506   506   506   506   506   506 

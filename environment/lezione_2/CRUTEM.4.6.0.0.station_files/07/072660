@@ -1,0 +1,21 @@
+Number= 072660
+Name= PERRIGNY
+Country= FRANCE
+Lat=   47.8
+Long=   -3.4
+Height= 152
+Start year= 2013
+End year= 2014
+First Good year= 2013
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2013
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2013
+Standard deviations source end year= 1990
+Obs:
+2013 -99.0 -99.0 -99.0  10.6  11.3  16.6  21.8  19.2  16.1  13.7   6.3   4.7   -99   -99   -99   506   506   506   506   506   506   506   506   506 
+2014   6.5   6.9   8.4  12.0  13.5  18.4  19.7  17.5  16.6  13.9   9.6   5.0   506   506   506   506   506   506   506   506   506   506   506   506 

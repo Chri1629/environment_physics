@@ -1,0 +1,23 @@
+Number= 083490
+Name= ALMAGRO / FAMET
+Country= SPAIN
+Lat=   39.0
+Long=    3.7
+Height= 622
+Start year= 2011
+End year= 2014
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011   6.0   7.9  10.0  16.3  19.2  23.8  26.0  26.9  22.4  16.6  10.9   6.3   506   506   506   506   506   506   506   506   506   506   506   506 
+2012   5.2   4.6  10.3  11.7  19.0  24.6  26.3  27.4  21.0  15.6  10.2   6.6   506   506   506   506   506   506   506   506   506   506   506   506 
+2013   6.2   6.4   9.5  12.4  15.3  21.1  26.6  26.6  22.1  17.0   8.0   5.3   506   506   506   506   506   506   506   506   506   506   506   506 
+2014   7.5   7.6  10.5  16.1  18.8  23.0  25.6  26.2  22.3  18.1  11.3   5.9   506   506   506   506   506   506   506   506   506   506   506   506 

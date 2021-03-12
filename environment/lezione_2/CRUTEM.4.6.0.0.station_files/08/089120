@@ -1,0 +1,23 @@
+Number= 089120
+Name= ISABA, EL FERIAL
+Country= SPAIN
+Lat=   43.0
+Long=    0.8
+Height= 1591
+Start year= 2011
+End year= 2014
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  -0.5   0.7 -99.0   8.1 -99.0 -99.0   9.9  15.7  11.9   8.2   4.8   1.4   506   506   -99   506   -99   -99   506   506   506   506   506   506 
+2012  -0.1 -99.0   2.8   2.2   9.0  12.4  11.8  16.4  10.6   7.6   2.3   1.7   506   -99   506   506   506   506   506   506   506   506   506   506 
+2013   1.2 -99.0   0.0   2.0   0.8   7.8  15.2  12.8  10.0   8.3 -99.0   0.5   506   -99   506   506   506   506   506   506   506   506   -99   506 
+2014   1.7 -99.0 -99.0   4.9 -99.0 -99.0  10.4  12.3 -99.0   9.4   3.4  -0.5   506   -99   -99   506   -99   -99   506   506   -99   506   506   506 

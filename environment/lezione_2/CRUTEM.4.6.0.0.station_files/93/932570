@@ -1,0 +1,21 @@
+Number= 932570
+Name= GALATEA AWS
+Country= NEW ZEALAND
+Lat=  -38.4
+Long= -176.8
+Height= 174
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  19.0  20.2  16.3  13.5  12.4   9.6   7.4   7.6   8.9  13.0  14.5  16.5   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  17.7  17.2  15.0  13.9   8.9   7.0   7.1   8.7   9.8  11.2  13.1  18.1   506   506   506   506   506   506   506   506   506   506   506   506 

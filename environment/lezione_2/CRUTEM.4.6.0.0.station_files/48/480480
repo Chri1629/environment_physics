@@ -1,0 +1,22 @@
+Number= 480480
+Name= NAUNGOO
+Country= MYANMAR
+Lat=   21.2
+Long=  -94.9
+Height= 61
+Start year= 2011
+End year= 2013
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2013
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  22.1  24.1  28.5  31.0  31.6  30.2  31.4  29.5  29.6  28.4  25.7  22.3   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  21.4  24.5  28.4  31.9  34.0  31.0  31.4  30.8  31.0  29.5  26.7  22.8   506   506   506   506   506   506   506   506   506   506   506   506 
+2013  21.7  26.1  29.8  33.3  31.9  31.5  31.3  31.1  30.8  30.1  28.3  25.4   506   506   506   506   506   506   506   506   506   506   506   506 

@@ -1,0 +1,21 @@
+Number= 896430
+Name= CAMP CHARCOT
+Country= ANTARCTICA
+Lat=  -69.4
+Long= -139.0
+Height= -999
+Start year= 1957
+End year= 1958
+First Good year= 1957
+Source ID= 10
+Source file= Jones
+Jones data to= 1958
+Normals source start year= 1961
+Normals source end year= 1958
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 1957
+Standard deviations source end year= 1958
+Obs:
+1957 -99.0 -99.0 -99.0 -40.6 -41.5 -47.2 -48.7 -46.4 -43.9 -37.4 -30.3 -21.3   -99   -99   -99   506   506   506   506   506   506   506   506   506 
+1958 -22.4 -39.6 -34.4 -38.5 -41.4 -49.8 -41.7 -43.2 -51.6 -39.7 -30.5 -23.7   506   506   506   506   506   506   506   506   506   506   506   506 

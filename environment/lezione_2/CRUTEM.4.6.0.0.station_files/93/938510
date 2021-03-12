@@ -1,0 +1,21 @@
+Number= 938510
+Name= ROXBURGH WXT AWS
+Country= NEW ZEALAND
+Lat=  -45.5
+Long= -169.3
+Height= 160
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  16.0  15.5  13.7  10.8   9.9   6.2   5.0   6.3   9.0  11.0  12.6  16.4   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  15.5  15.5  12.8  12.0   8.4   5.1   5.3   8.2  10.1   9.8  11.8  15.6   506   506   506   506   506   506   506   506   506   506   506   506 

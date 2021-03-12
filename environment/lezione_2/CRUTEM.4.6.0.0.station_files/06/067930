@@ -1,0 +1,21 @@
+Number= 067930
+Name= VALBELLA
+Country= SWITZERLAND
+Lat=   46.8
+Long=   -9.6
+Height= 1569
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   4.5  -2.2   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99   506   506 
+2012  -3.9  -8.7   1.9   2.1   7.7  11.7  11.9  13.7   9.1   5.8   2.2  -4.1   506   506   506   506   506   506   506   506   506   506   506   506 

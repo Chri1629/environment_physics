@@ -1,0 +1,23 @@
+Number= 039630
+Name= MACE HEAD
+Country= IRELAND
+Lat=   53.3
+Long=    9.9
+Height= 21
+Start year= 2011
+End year= 2014
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011   4.9   7.0   7.9  11.3  11.4  12.2  14.0  14.0  13.7  12.0  10.8   7.8   506   506   506   506   506   506   506   506   506   506   506   506 
+2012   8.1   8.2   9.4   8.2  11.9  13.0  14.0  15.9  13.2  10.0   8.0   7.2   506   506   506   506   506   506   506   506   506   506   506   506 
+2013 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99 
+2014   7.0   6.4   7.7  10.7  11.6  14.5  16.0  14.9  15.0  12.0   9.0   7.8   506   506   506   506   506   506   506   506   506   506   506   506 

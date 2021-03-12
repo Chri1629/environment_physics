@@ -1,0 +1,23 @@
+Number= 080870
+Name= BARDENAS REALES
+Country= SPAIN
+Lat=   42.2
+Long=    1.5
+Height= 295
+Start year= 2011
+End year= 2014
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011   5.9   8.1  10.2  16.1  19.0  20.9  21.9  25.0  22.3  16.6  11.6   7.4   506   506   506   506   506   506   506   506   506   506   506   506 
+2012 -99.0 -99.0  12.0  11.6  18.6 -99.0  23.5 -99.0  21.5 -99.0   9.9   7.2   -99   -99   506   506   506   -99   506   -99   506   -99   506   506 
+2013   6.9   6.4   9.9  12.1  13.0  18.9  25.5  23.6  20.5  17.1   9.7   5.1   506   506   506   506   506   506   506   506   506   506   506   506 
+2014   7.8   7.5  10.8  15.5  16.3  21.8  22.3  22.9  22.1  18.2  11.3   7.4   506   506   506   506   506   506   506   506   506   506   506   506 

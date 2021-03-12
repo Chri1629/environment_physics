@@ -1,0 +1,21 @@
+Number= 930040
+Name= CAPE REINGA AWS
+Country= NEW ZEALAND
+Lat=  -34.4
+Long= -172.7
+Height= 214
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  19.9  20.3  19.2  17.3  16.1  13.8  12.5  12.2  12.8  14.6  15.4  17.3   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  17.9  19.5  18.1  17.3  14.6  13.2  13.2  13.1  13.1  13.9  14.6  17.7   506   506   506   506   506   506   506   506   506   506   506   506 
