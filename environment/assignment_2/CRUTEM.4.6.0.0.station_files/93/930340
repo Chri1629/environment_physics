@@ -1,0 +1,21 @@
+Number= 930340
+Name= KAIKOHE AWS
+Country= NEW ZEALAND
+Lat=  -35.4
+Long= -173.8
+Height= 204
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  20.8  21.2  19.5  17.3  16.1  14.0  11.8  11.4  12.2  14.9  16.2  18.0   506   506   506   506   506   506   506   506   506   506   506   506 
+2012 -99.0  20.3  17.8  16.7  14.5  12.5  12.5  12.8  13.0  14.1  14.9  19.1   -99   506   506   506   506   506   506   506   506   506   506   506 

@@ -1,0 +1,21 @@
+Number= 930210
+Name= KERIKERI AERODROME A
+Country= NEW ZEALAND
+Lat=  -35.3
+Long= -173.9
+Height= 150
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  19.9  20.7  18.7  16.4  15.0  12.5  11.3  10.8  11.7  14.6  16.1  17.6   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  18.2  19.0  17.0  16.1  13.3  11.4  11.6  11.9  12.8  13.9  14.5  18.5   506   506   506   506   506   506   506   506   506   506   506   506 

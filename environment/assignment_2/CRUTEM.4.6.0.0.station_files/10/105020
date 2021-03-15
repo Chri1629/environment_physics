@@ -1,0 +1,22 @@
+Number= 105020
+Name= NORVENICH (FLUGPLATZ
+Country= GERMANY
+Lat=   50.8
+Long=   -6.7
+Height= 111
+Start year= 2000
+End year= 2002
+First Good year= 2000
+Source ID= 73
+Source file= Jones
+Jones data to= 2002
+Normals source start year= 2000
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2000
+Standard deviations source end year= 1990
+Obs:
+2000 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0  15.6  18.6  15.9  11.4   7.8   5.3   -99   -99   -99   -99   -99   -99   506   506   506   506   506   506 
+2001   3.0   4.9   6.3   8.8  15.5  15.8  19.6  19.8  12.8  14.1   5.8   2.3   506   506   506   506   506   506   506   506   506   506   506   506 
+2002   3.4   7.1   7.3   9.8  14.6 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   506   506   506   506   506   -99   -99   -99   -99   -99   -99   -99 

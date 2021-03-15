@@ -1,0 +1,22 @@
+Number= 785929
+Name= FLORESFM
+Country= BELIZE
+Lat=   16.5
+Long=   88.6
+Height= 30
+Start year= 1998
+End year= 2000
+First Good year= 1998
+Source ID= 96
+Source file= Jones
+Jones data to= 2000
+Normals source start year= 1998
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 1998
+Standard deviations source end year= 1990
+Obs:
+1998 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0  27.8 -99.0 -99.0 -99.0   -99   -99   -99   -99   -99   -99   -99   -99   506   -99   -99   -99 
+1999 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99 
+2000 -99.0 -99.0 -99.0  26.7  28.0 -99.0  27.6  27.1 -99.0 -99.0 -99.0 -99.0   -99   -99   -99   506   506   -99   506   506   -99   -99   -99   -99 

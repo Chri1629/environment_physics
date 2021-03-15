@@ -1,0 +1,21 @@
+Number= 932850
+Name= TOLAGA BAY WXT AWS
+Country= NEW ZEALAND
+Lat=  -38.4
+Long= -178.3
+Height= 12
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  18.9  19.7  17.3  14.6  14.4  11.5  10.9   9.5  10.5  13.5  15.6  16.3   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  18.3  17.3  16.4  15.2  11.9  10.3  10.3  10.9  11.5  13.5  13.6  18.1   506   506   506   506   506   506   506   506   506   506   506   506 

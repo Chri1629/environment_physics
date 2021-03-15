@@ -1,0 +1,23 @@
+Number= 013360
+Name= BULKEN
+Country= NORWAY
+Lat=   60.6
+Long=   -6.2
+Height= 323
+Start year= 2014
+End year= 2017
+First Good year= 2014
+Source ID= 73
+Source file= Jones
+Jones data to= 2017
+Normals source start year= 2014
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2014
+Standard deviations source end year= 1990
+Obs:
+2014 -99.0 -99.0 -99.0 -99.0 -99.0  13.1  17.5  13.6  11.1   7.6   3.8  -0.8   -99   -99   -99   -99   -99   506   506   506   506   506   506   506 
+2015  -0.4  -0.2   2.4   3.3   6.0   9.5  12.4  14.1  10.9   6.2   3.2   1.6   506   506   506   506   506   506   506   506   506   506   506   506 
+2016  -4.7  -1.9   1.5 -99.0   9.9  14.1  12.9  12.7  12.9   5.1  -0.5   2.1   506   506   506   -99   506   506   506   506   506   506   506   506 
+2017  -0.9  -0.5   1.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   506   506   506   -99   -99   -99   -99   -99   -99   -99   -99   -99 

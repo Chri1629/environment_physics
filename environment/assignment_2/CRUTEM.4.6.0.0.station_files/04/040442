@@ -1,0 +1,23 @@
+Number= 040442
+Name= VATNSFELLSBUDIR
+Country= ICELAND
+Lat=   64.2
+Long=   19.0
+Height= 555
+Start year= 1970
+End year= 1973
+First Good year= 1970
+Source ID= 95
+Source file= Jones
+Jones data to= 1973
+Normals source start year= 1970
+Normals source end year= 1973
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 1970
+Standard deviations source end year= 1973
+Obs:
+1970 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   6.6   3.3  -0.6  -4.6  -3.9   -99   -99   -99   -99   -99   -99   -99   506   506   506   506   506 
+1971  -9.7  -4.0  -3.6  -1.9   2.4   6.1   7.7   6.1   4.1   0.0  -4.6  -4.5   506   506   506   506   506   506   506   506   506   506   506   506 
+1972  -1.4  -2.9  -2.9  -2.6   3.0   5.0   6.5   5.6   4.1   0.2  -4.7  -3.0   506   506   506   506   506   506   506   506   506   506   506   506 
+1973  -1.0  -7.1  -3.1  -2.1   0.3   3.5   7.7   6.7 -99.0 -99.0 -99.0 -99.0   506   506   506   506   506   506   506   506   -99   -99   -99   -99 

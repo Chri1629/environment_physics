@@ -1,0 +1,23 @@
+Number= 151080
+Name= CEAHLAU TOACA
+Country= ROMANIA
+Lat=   46.9
+Long=  -25.9
+Height= 1897
+Start year= 2006
+End year= 2009
+First Good year= 2006
+Source ID= 73
+Source file= Jones
+Jones data to= 2009
+Normals source start year= 2006
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2006
+Standard deviations source end year= 1990
+Obs:
+2006  -9.4  -9.4  -6.7   0.4   3.9   7.8  10.8   9.9   6.5   4.1  -1.8  -3.7   506   506   506   506   506   506   506   506   506   506   506   506 
+2007  -6.0  -6.5  -3.3  -1.7   7.7  10.3  12.8  11.4   5.0   2.0  -5.4  -5.4   506   506   506   506   506   506   506   506   506   506   506   506 
+2008  -6.5  -7.0  -4.9  -0.3   4.6   9.1  10.0  12.1   4.7   3.6  -0.3  -4.9   506   506   506   506   506   506   506   506   506   506   506   506 
+2009  -6.6  -8.2  -6.4   2.5   5.2   9.2  11.5  10.6   7.1   2.1  -0.5 -99.0   506   506   506   506   506   506   506   506   506   506   506   -99 

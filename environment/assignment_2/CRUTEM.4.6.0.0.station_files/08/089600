@@ -1,0 +1,22 @@
+Number= 089600
+Name= VALDELINARES-ESQUI
+Country= SPAIN
+Lat=   40.4
+Long=    0.6
+Height= 1955
+Start year= 2012
+End year= 2014
+First Good year= 2012
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2012
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2012
+Standard deviations source end year= 1990
+Obs:
+2012  -0.5  -4.9 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0  -0.5   506   506   -99   -99   -99   -99   -99   -99   -99   -99   -99   506 
+2013 -99.0  -4.8   0.2 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   -99   506   506   -99   -99   -99   -99   -99   -99   -99   -99   -99 
+2014 -99.0  -2.8 -99.0 -99.0 -99.0  12.9  14.2 -99.0 -99.0 -99.0 -99.0 -99.0   -99   506   -99   -99   -99   506   506   -99   -99   -99   -99   -99 

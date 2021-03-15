@@ -1,0 +1,21 @@
+Number= 933450
+Name= WANGANUI 2 AWS
+Country= NEW ZEALAND
+Lat=  -39.9
+Long= -175.0
+Height= 18
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  18.9  19.9  16.9  14.5  14.5  11.5   9.5   9.6  11.2  13.7  15.0  17.0   506   506   506   506   506   506   506   506   506   506   506   506 
+2012  17.5  17.9  16.4  15.0  11.4  10.1   9.5  11.1  12.0  13.3  13.3  18.2   506   506   506   506   506   506   506   506   506   506   506   506 

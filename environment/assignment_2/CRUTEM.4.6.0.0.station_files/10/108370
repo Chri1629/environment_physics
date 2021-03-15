@@ -1,0 +1,22 @@
+Number= 108370
+Name= LAUPHEIM
+Country= GERMANY
+Lat=   48.2
+Long=   -9.9
+Height= 539
+Start year= 2000
+End year= 2002
+First Good year= 2000
+Source ID= 73
+Source file= Jones
+Jones data to= 2002
+Normals source start year= 2000
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2000
+Standard deviations source end year= 1990
+Obs:
+2000 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0  15.5  18.5  13.8   9.8   4.5   2.5   -99   -99   -99   -99   -99   -99   506   506   506   506   506   506 
+2001   0.1   2.3   5.9   6.5  15.3  14.8  18.4  18.6  11.0  12.1   2.0  -1.0   506   506   506   506   506   506   506   506   506   506   506   506 
+2002  -0.5   4.5   5.6   7.8  12.7 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   506   506   506   506   506   -99   -99   -99   -99   -99   -99   -99 

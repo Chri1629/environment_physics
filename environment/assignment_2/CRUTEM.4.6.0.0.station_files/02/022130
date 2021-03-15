@@ -1,0 +1,21 @@
+Number= 022130
+Name= BYDALEN_V
+Country= SWEDEN
+Lat=   63.0
+Long=  -13.9
+Height= 1000
+Start year= 1997
+End year= 1998
+First Good year= 1997
+Source ID= 73
+Source file= Jones
+Jones data to= 1998
+Normals source start year= 1997
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 1997
+Standard deviations source end year= 1990
+Obs:
+1997 -99.0  -7.3 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   -99   506   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99 
+1998 -99.0  -5.3  -6.2 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0   -99   506   506   -99   -99   -99   -99   -99   -99   -99   -99   -99 

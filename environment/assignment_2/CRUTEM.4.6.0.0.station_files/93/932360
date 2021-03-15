@@ -1,0 +1,21 @@
+Number= 932360
+Name= TAUPO WXT AWS
+Country= NEW ZEALAND
+Lat=  -38.7
+Long= -176.1
+Height= 385
+Start year= 2011
+End year= 2012
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2012
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  18.8  19.5  15.9  13.2  12.7   9.5   7.5   7.5   8.9  12.4  14.0  16.1   506   506   506   506   506   506   506   506   506   506   506   506 
+2012 -99.0  17.0  14.9  13.3   9.3   7.8   7.4   9.0   9.8  11.6  13.3  17.8   -99   506   506   506   506   506   506   506   506   506   506   506 

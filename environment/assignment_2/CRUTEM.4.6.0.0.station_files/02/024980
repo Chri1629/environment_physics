@@ -1,0 +1,22 @@
+Number= 024980
+Name= SVENSKA HOGARNA A
+Country= SWEDEN
+Lat=   59.5
+Long=  -19.5
+Height= 12
+Start year= 2011
+End year= 2013
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2013
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011  -1.2  -3.9   0.3   4.0   7.8  14.0  17.9  17.4  13.6   9.0   6.5   3.6   506   506   506   506   506   506   506   506   506   506   506   506 
+2012   0.5  -2.0   2.5   2.9   7.8  11.6  16.2  16.6  12.4   7.8   5.1  -0.6   506   506   506   506   506   506   506   506   506   506   506   506 
+2013  -1.4  -0.6  -2.1   2.6   8.3  13.7  15.6  17.3  13.6   9.4   5.7   3.7   506   506   506   506   506   506   506   506   506   506   506   506 

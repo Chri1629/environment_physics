@@ -1,0 +1,23 @@
+Number= 089220
+Name= PANTICOSA (REFUGIO C
+Country= SPAIN
+Lat=   42.8
+Long=    0.2
+Height= 1645
+Start year= 2011
+End year= 2014
+First Good year= 2011
+Source ID= 98
+Source file= Jones
+Jones data to= 2014
+Normals source start year= 2011
+Normals source end year= 1990
+Normals= -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 -99.0 
+Standard deviations source= Data
+Standard deviations source start year= 2011
+Standard deviations source end year= 1990
+Obs:
+2011 -99.0 -99.0 -99.0 -99.0 -99.0  12.4  13.3  16.3  14.4   9.7   5.6   2.7   -99   -99   -99   -99   -99   506   506   506   506   506   506   506 
+2012   2.7  -2.3   4.8   3.0  10.3  14.5  16.0  17.8  13.1   8.5   3.8   1.4   506   506   506   506   506   506   506   506   506   506   506   506 
+2013   1.4  -2.1   1.1   4.2   5.4  11.4  16.1  15.5  12.4   9.5   3.0   1.7   506   506   506   506   506   506   506   506   506   506   506   506 
+2014   0.8  -0.8   2.7   7.2   7.8  13.1  14.2  14.5  13.3  10.7   3.7 -99.0   506   506   506   506   506   506   506   506   506   506   506   -99 
